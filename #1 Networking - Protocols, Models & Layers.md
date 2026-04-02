@@ -1,4 +1,4 @@
-# Networking Notes
+# Networking - Protocols, Models & Layers
 
 ## 1. Network Protocols
 
