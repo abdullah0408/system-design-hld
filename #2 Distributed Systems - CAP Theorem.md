@@ -40,7 +40,7 @@ Imagine two bank branches (Node A and Node B) that keep account balances in sync
 - **CP choice** — branches stop some transactions until connection returns. Balance stays correct, but service is limited.
 - **AP choice** — both branches keep processing transactions. Service continues, but balances can temporarily diverge.
 
-## 7. One-Liner for Revision
+## 7. Core dump
 
 > CAP means you cannot guarantee Consistency, Availability, and Partition Tolerance all at once during a partition; in practice, you choose between C and A while tolerating P.
 
