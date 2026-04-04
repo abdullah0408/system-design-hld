@@ -71,12 +71,7 @@ Connection is now established — data can flow.
 
 OSI is a **conceptual model** used for teaching and troubleshooting. TCP/IP is what's **actually implemented** on the real internet — it just breaks things into fewer layers.
 
-| OSI Layers | TCP/IP Equivalent |
-|---|---|
-| 7, 6, 5 (Application, Presentation, Session) | Application layer |
-| 4 (Transport) | Transport layer |
-| 3 (Network) | Internet layer |
-| 2, 1 (Data Link, Physical) | Network access layer |
+![OSI to TCP/IP layer mapping table](./assets/osi-vs-tcp-ip-model-comparison.png)
 
 ## 9. Protocol Comparison — HTTP, TCP, UDP, FTP, SMTP, POP3, IMAP
 
