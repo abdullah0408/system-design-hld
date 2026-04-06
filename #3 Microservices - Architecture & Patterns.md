@@ -94,4 +94,4 @@ The read DB is kept in sync via events or scheduled jobs. Reads become fast and 
 - **SAGA** = sequence of local transactions with compensating rollbacks on failure
 - **CQRS** = separate read and write sides; read DB is synced via events
 - **Strangler pattern** = safe way to migrate monolith → microservices gradually
-- Choreography = decentralised (events); Orchestration = centralised (controller)
+- **Choreography** = decentralised (events); Orchestration = centralised (controller)
